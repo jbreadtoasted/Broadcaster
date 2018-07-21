@@ -1,7 +1,7 @@
 name: Broadcaster
 main: Broadcaster\Main
 version: "1.16"
-api: [3.0.0-ALPHA2]
+api: [3.1.1]
 load: STARTUP
 author: EvolSoft, Revival PMMP
 description: Broadcast Plugin
